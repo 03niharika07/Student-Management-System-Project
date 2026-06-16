@@ -54,5 +54,3 @@ Open browser:
 Username: `admin`  
 Password: `admin123`
 
-## Interview Explanation
-This project is a web-based Student Management System where an admin can login and manage student records. It includes CRUD operations: add student, view student, update student, and delete student. It also has search functionality, dashboard, form validation, and MySQL database connectivity.
