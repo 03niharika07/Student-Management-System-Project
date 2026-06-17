@@ -16,5 +16,5 @@ CREATE TABLE IF NOT EXISTS students (
 
 INSERT INTO students (name, roll_no, email, phone, course, batch, address, admission_date)
 VALUES
-('Neha Bansal', 'STU001', 'neha@example.com', '9876543210', 'UPSC Foundation', 'Morning', 'Delhi', '2026-06-01'),
-('Riya Sharma', 'STU002', 'riya@example.com', '9876500000', 'PCS', 'Evening', 'Rohini', '2026-06-05');
+('Niharika Bansal', 'STU001', 'neha@example.com', '9876543210', 'UPSC Foundation', 'Morning', 'Delhi', '2026-06-01'),
+('Tanya Sharma', 'STU002', 'riya@example.com', '9876500000', 'PCS', 'Evening', 'Rohini', '2026-06-05');
